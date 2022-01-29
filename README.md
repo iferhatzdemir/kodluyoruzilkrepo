@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Node.js Eğitiminde oluşturdu
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açın.
 
-```cd kodluyoruzilkrepo ``
+``cd kodluyoruzilkrepo ``
 
 ``code .``
 
@@ -17,3 +17,4 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açın.
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # License
+[MIT](https://www.kodluyoruz.org/)
