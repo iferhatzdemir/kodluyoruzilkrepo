@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Node.js Eğitiminde oluşturdu
 # Installation
 Öncelikle projeyi clonelayın.
  https://github.com/iferhatzdemir/kodluyoruzilkrepo.git
- 
+
 ``git clone https://github.com/iferhatzdemir/kodluyoruzilkrepo.git``
 
 # Usage
@@ -20,3 +20,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 [MIT](https://www.kodluyoruz.org/)
+
+
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
