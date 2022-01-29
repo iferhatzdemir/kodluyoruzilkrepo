@@ -2,7 +2,8 @@
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Node.js Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html dosyası bulunmaktadır.
 
 # Installation
-Öncelikle projeyi clonelayın. https://github.com/iferhatzdemir/kodluyoruzilkrepo.git
+Öncelikle projeyi clonelayın.
+ https://github.com/iferhatzdemir/kodluyoruzilkrepo.git
 `git clone https://github.com/iferhatzdemir/kodluyoruzilkrepo.git`
 
 # Usage
