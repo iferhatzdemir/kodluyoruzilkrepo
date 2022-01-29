@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Node.js Eğitiminde oluşturdu
 # Installation
 Öncelikle projeyi clonelayın.
  https://github.com/iferhatzdemir/kodluyoruzilkrepo.git
-`git clone https://github.com/iferhatzdemir/kodluyoruzilkrepo.git`
+``git clone https://github.com/iferhatzdemir/kodluyoruzilkrepo.git``
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açın.
